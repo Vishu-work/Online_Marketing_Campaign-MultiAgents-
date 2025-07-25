@@ -5,6 +5,7 @@
 ![GenAI Badge](https://img.shields.io/badge/Powered_by-GenerativeAI-blueviolet)
 ![Cohere Badge](https://img.shields.io/badge/LLM-Cohere_command-blue)
 ![Agentic Badge](https://img.shields.io/badge/Agentic_Architecture-CrewAI-ff69b4)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
