@@ -14,7 +14,7 @@ llm = LLM(
     provider="cohere",
     model="command",
     config={
-        "api_key": os.getenv("YPUR_API_KEY")
+        "api_key": os.getenv("YOUR_API_KEY")
     }
 )
 
