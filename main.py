@@ -7,14 +7,14 @@ import pickle
 
 
 
-os.environ['COHERE_API_KEY'] = 's7qgwB0QeSCV0p1xjhDkOiDhwYQ9Sp1ejLQ9mjX7'
-os.environ['COHERE_MODEL_NAME'] = 'command'
+os.environ["COHERE_API_KEY"] = "YOUR_API_KEY"
+os.environ["COHERE_MODEL_NAME"] = "command"
 
 llm = LLM(
     provider="cohere",
     model="command",
     config={
-        "api_key": os.getenv("s7qgwB0QeSCV0p1xjhDkOiDhwYQ9Sp1ejLQ9mjX7")
+        "api_key": os.getenv("YPUR_API_KEY")
     }
 )
 
